@@ -1,0 +1,8 @@
+
+{
+  "name": "WeChat Bookkeeping Pro",
+  "description": "A feature-rich personal finance tracker with AI insights, designed for Android via Capacitor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
